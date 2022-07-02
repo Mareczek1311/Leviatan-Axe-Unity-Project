@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{36ED1CE3-772E-F3DE-3FE9-21977164E909}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AiScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AiScript.cs" Line="59" Column="39" />
+      <File FileName="Assets/Scripts/LewiatanScript.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testing" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="CameraShaker" expanded="True">
+                <Node name="Assets" expanded="True">
+                  <Node name="EZ Camera Shake" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1fa8eea3-1218-4cb9-a031-a9596e3479ff" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
